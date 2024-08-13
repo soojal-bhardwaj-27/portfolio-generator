@@ -1,0 +1,21 @@
+/* src/components/ImageUpload/ImageUpload.css */
+
+.image-upload {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.image-upload input {
+    margin-bottom: 10px;
+}
+
+.image-preview {
+    width: 100px; /* Passport size width */
+    height: 100px; /* Passport size height */
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #ddd; /* Border around the image */
+    background-color: #fff; /* Background color for the image area */
+}

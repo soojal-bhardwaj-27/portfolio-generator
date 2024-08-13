@@ -1,0 +1,13 @@
+
+
+.theme-selector {
+    margin: 20px 0;
+}
+
+.theme-selector label {
+    margin-right: 10px;
+}
+
+.theme-selector input[type="color"] {
+    padding: 5px;
+}

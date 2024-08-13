@@ -1,0 +1,27 @@
+
+
+.form-component {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-component label {
+    margin-bottom: 10px; 
+}
+
+.form-component input {
+    margin: 5px 0;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-component button {
+    margin-top: 20px; 
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
