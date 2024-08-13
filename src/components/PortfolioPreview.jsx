@@ -1,4 +1,3 @@
-// src/components/PortfolioPreview.jsx
 
 import React from 'react';
 
